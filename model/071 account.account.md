@@ -3,7 +3,7 @@ TBD 2018-12-22
 
 model|field|String|type|note
 -----|-----|------|----|----
-account.account.type||||
+account.account.type|name|Account Type|Char|
 
 
 model|field|String|type|note
